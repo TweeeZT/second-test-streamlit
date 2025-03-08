@@ -1,0 +1,9 @@
+https://dashboard-data-app-lgcegqnejnhixjmdpcnxvz.streamlit.app
+
+// Dashboard nya tidak bisa di up karena matplotlib tidak dikenal oleh streamlit
+
+File "/mount/src/dashboard-data-streamlit/streamlit_app.py", line 2, in <module>
+
+    import matplotlib.pyplot as plt
+
+ModuleNotFoundError: No module named 'matplotlib'
